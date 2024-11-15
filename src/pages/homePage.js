@@ -1,6 +1,5 @@
 import Carousel from '@/components/Carousel'
 import Navbar from '@/components/Navbar'
-import Sponser from '@/components/Sponser'
 import Card from '@/components/Card'
 import React from 'react'
 import Footer from '@/components/Footer'

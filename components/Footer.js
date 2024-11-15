@@ -6,10 +6,9 @@ const Footer = () => {
     <footer className="text-gray-600 bg-gray-50 body-font">
       <div className="px-5 py-5 mx-auto flex items-center sm:flex-row flex-col">
         <Link href={'/'} className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
-          <img className='w-12 h-10' src="/navbarlogo.png" alt="" />
-          <span className="ml-3 text-baseColor tracking-wider text-xl">Vedamahathaya</span>
+          <img className='w-40 h-12' src="/logo/websiteLogo.png" alt="" />
         </Link>
-        <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2024 Vedamahathaya</p>
+        <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2024 Vedamahathaya | All Rights Reserved.</p>
         <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
           <a className="text-baseColor">
             <svg fill="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-5 h-5" viewBox="0 0 24 24">
